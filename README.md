@@ -1,23 +1,31 @@
-🧪 Software Quality Assurance (SQA) Portfolio
-Welcome to my SQA Portfolio! This repository showcases my practical experience in Software Quality Assurance, including manual testing, API testing, test case design, and bug reporting.
+👋 About Me
+I am a results-oriented Software Quality Assurance (SQA) Engineer focused on delivering high-quality, reliable software through comprehensive testing strategies and proactive defect management. I aim to bridge technical quality standards with data-driven insights to improve product stability and user experience.
 
-📌 About Me
-I am a passionate SQA Engineer focused on ensuring software quality through detailed testing and analysis. I enjoy finding bugs, improving user experience, and making applications more reliable and stable.
+🚀 Projects
+🔹 Real-Time QA & Automation Projects
+Performed manual and automated testing on real-world applications including BYJCHS, Health for Travel, Taskr, and Vigilink.
+Achieved 99% defect-free releases by identifying critical functional and security issues.
+Developed E2E automated test scripts using Playwright (JavaScript), reducing regression testing effort by 30%.
+Conducted API testing with Postman to validate security, roles, and backend logic.
+Used Git for version control and collaborative defect tracking.
 
-🧰 Skills & Tools
-Manual Testing
-API Testing (Postman)
-Test Case Design & Execution
-Bug Reporting & Tracking
-Basic Automation Concepts
-Agile Methodology
+🛠️ Skills
+🔍 QA & Automation
+Manual Testing, Automation Testing (Playwright - JavaScript), Regression Testing, Smoke Testing, Functional Testing, API Testing, E2E Testing, UAT Support
 
-📂 What’s Inside
-This repository includes:
-Well-structured test cases
-Bug reports with clear reproduction steps
-API testing examples
-Practice QA projects
+🧪 Tools & Frameworks
+Postman, JIRA, GitHub, Playwright (Basic), JMeter (Basic), Test Case Design, Bug Reporting, Test Documentation
 
-🎯 Purpose
-The goal of this portfolio is to demonstrate my real-world QA skills and my ability to think from a user’s perspective while ensuring software quality.
+🗄️ Databases
+MySQL, SQL Server, Query Optimization
+
+⚙️ Methodologies
+Agile, Scrum, Waterfall, SDLC, TDD, CI/CD Concepts
+
+📜 Certifications
+Full Stack Development — NAVTTC (Aptech)
+Google Advanced Data Analytics
+Google Agile Essentials
+Accelerate Your Job Search with AI
+Web Development (Great Learning)
+Communication & Soft Skills — DigiSkills (DSTP3.0)
