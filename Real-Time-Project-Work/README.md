@@ -1,25 +1,33 @@
 🎯 Project Purpose
+
 This repository demonstrates real-world QA practices, including:
-End-to-end testing
-Automation frameworks
-API validation
-Bug tracking & reporting
+
+End-to-end testing, 
+Automation frameworks, 
+API validation, 
+Bug tracking & reporting, 
 Production-level testing workflows
 
+
 🛠️ Tech Stack
+
 🤖 Automation
 Playwright (JavaScript)
 
+
 🧰 Testing Tools
+
 Postman
 Chrome DevTools
 JMeter
 
 🔄 Version Control
+
 Git
 GitHub
 
 🐞 Bug Tracking
+
 GitHub Issues
 🗄️ Database
 MySQL (SQL Queries)
@@ -29,6 +37,7 @@ SDLC / STLC
 CI/CD
 
 🧪 Key Testing Areas
+
 ✔ Functional Testing
 ✔ Regression Testing
 ✔ Smoke Testing
@@ -37,9 +46,11 @@ CI/CD
 ✔ Cross-Browser Testing
 
 🐞 Defect Management
+
 Managed 120+ bugs end-to-end
 
 🔍 Responsibilities:
+
 Bug logging
 Severity & Priority assignment
 Developer collaboration
