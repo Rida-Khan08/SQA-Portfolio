@@ -45,7 +45,7 @@ I am a detail-oriented Software Quality Assurance (SQA) Engineer with a strong f
 *   **Visual Proof:**
     <br>
     <p align="center">
-      <img src="Real-Time-Project-Work/screencapture-github-Vigilink-WFM-xyro-frontend-issues-412-2026-04-06-15_32_40.png" alt="Hatch Point Bug Report" width="600" style="border: 2px solid #ddd; border-radius: 8px; padding: 5px;"/>
+      <img src="https://github.com/user-attachments/assets/4c5f2957-d511-4100-85c3-ebb15ee0beec" alt="Hatch Point Bug Report" width="600" style="border: 2px solid #ddd; border-radius: 8px; padding: 5px;"/>
     </p>
     🔗 **https://github.com/Rida-Khan08/SQA-Portfolio/tree/main/Real-Time-Project-Work**
 
